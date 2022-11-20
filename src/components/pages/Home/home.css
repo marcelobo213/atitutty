@@ -1,0 +1,27 @@
+.naveBar {
+    background-color: green;
+}
+
+nav {
+    display: flex !important;
+    justify-content: space-between;
+    padding: 0 20px ;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    color: rgb(4, 37, 18);
+}
